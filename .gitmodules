@@ -4,3 +4,6 @@
 [submodule "Hooks"]
 	path = Hooks
 	url = https://github.com/Youngju-Jang/Hooks.git
+[submodule "wetube"]
+	path = wetube
+	url = https://github.com/Youngju-Jang/wetube.git
