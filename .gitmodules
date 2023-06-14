@@ -10,3 +10,6 @@
 [submodule "nomard"]
 	path = nomard
 	url = https://github.com/Youngju-Jang/nomard.git
+[submodule "youtube"]
+	path = youtube
+	url = https://github.com/Youngju-Jang/youtube.git
