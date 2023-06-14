@@ -1,3 +1,6 @@
 [submodule "ReactMovie"]
 	path = ReactMovie
 	url = https://github.com/Youngju-Jang/ReactMovie.git
+[submodule "Hooks"]
+	path = Hooks
+	url = https://github.com/Youngju-Jang/Hooks.git
